@@ -1,0 +1,47 @@
+ability 1
+a
+move a down
+move a down
+move A up
+move a down
+move A up
+move a down
+move A up
+move a down
+move d down
+move D left
+move c down
+move A up
+move c down
+move A up
+move c left 
+move A right
+move c down
+move D up
+move c down
+move D up
+move c left
+move D right
+move c down
+move D right
+move c down
+move D right
+move c down
+move D left
+move c down
+abilities
+ability 3
+f
+move B up
+abilities
+move d down
+move D right
+move d down
+move D up
+move d down
+move D left
+move d down
+move E up
+move d down
+move E right
+move d down
